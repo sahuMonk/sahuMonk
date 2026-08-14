@@ -24,30 +24,96 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Data Platform
+## 🛠️ Languages and Tools
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+<h3 align="center">☁️ Cloud & Data Engineering</h3>
 
-### 🔥 Data Engineering & Big Data
+<p align="center">
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="55" alt="Azure" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-### 💻 Programming
+<a href="https://azure.microsoft.com/products/data-factory/" target="_blank">
+<img src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" height="55" alt="Azure Data Factory" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<a href="https://azure.microsoft.com/products/storage/data-lake-storage/" target="_blank">
+<img src="https://iconvault.app/icon/azure-core--azure-data-lake-storage-gen2-adls.svg" height="55" alt="ADLS Gen2" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-### 🔧 Tools & Concepts
+<a href="https://www.databricks.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/databricks" height="55" alt="Databricks" />
+</a>
+&nbsp;&nbsp;&nbsp;
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="55" alt="Apache Spark" />
+</a>
 
-`ETL / ELT` · `Incremental Loading` · `Watermarking` · `Medallion Architecture` · `Data Quality` · `Spark Optimization` · `Star Schema`
+</p>
 
----
+<h3 align="center">💻 Programming & Databases</h3>
+
+<p align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" alt="Python" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="55" alt="MySQL" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" alt="Git" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="55" alt="VS Code" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="55" alt="Jupyter" />
+</a>
+
+</p>
+
+<h3 align="center">🔄 Data Engineering Concepts</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge" alt="ETL ELT" />
+&nbsp;
+<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge" alt="Incremental Loading" />
+&nbsp;
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge" alt="Delta Lake" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge" alt="Medallion Architecture" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+&nbsp;
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" alt="PySpark" />
+
+</p>
+
 
 ## 📂 Featured Data Engineering Projects
 
