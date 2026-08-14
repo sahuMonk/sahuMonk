@@ -207,33 +207,41 @@ Samrat Ashok Technological Institute, Vidisha
 
 ## 🤝 Let's Connect
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+             width="60"
+             height="60"
+             alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mayanksahu212@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+             width="60"
+             height="60"
+             alt="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sahuMonk">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+             width="60"
+             height="60"
+             alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-     width="70"
-     height="45"
-     alt="LinkedIn" />
-</a>
-
-   
-
-<a href="mailto:mayanksahu212@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-     width="70"
-     height="45"
-     alt="Gmail" />
-</a>
-
-   
-
-<a href="https://github.com/sahuMonk">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-     width="55"
-     height="45"
-     alt="GitHub" />
-</a>
-
+  <strong>LinkedIn</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Gmail</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>GitHub</strong>
 </p>
 
 ---
