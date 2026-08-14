@@ -23,45 +23,17 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 ---
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Languages and Tools
-
-<h3 align="center">☁️ Cloud & Data Engineering</h3>
-
-<p align="center">
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="55" alt="Azure" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://azure.microsoft.com/products/data-factory/" target="_blank">
-<img src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" height="55" alt="Azure Data Factory" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://azure.microsoft.com/products/storage/data-lake-storage/" target="_blank">
-<img src="https://iconvault.app/icon/azure-core--azure-data-lake-storage-gen2-adls.svg" height="55" alt="ADLS Gen2" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.databricks.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/databricks" height="55" alt="Databricks" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://spark.apache.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="55" alt="Apache Spark" />
-</a>
-
-</p>
-
-<h3 align="center">💻 Programming & Databases</h3>
+### 💻 Programming & Databases
 
 <p align="center">
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" alt="Python" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.oracle.com/database/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="55" alt="Oracle Database" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -88,32 +60,8 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="55" alt="VS Code" />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="55" alt="Jupyter" />
-</a>
 
 </p>
-
-<h3 align="center">🔄 Data Engineering Concepts</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge" alt="ETL ELT" />
-&nbsp;
-<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge" alt="Incremental Loading" />
-&nbsp;
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge" alt="Delta Lake" />
-&nbsp;
-<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge" alt="Medallion Architecture" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-&nbsp;
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" alt="PySpark" />
-
-</p>
-
 
 ## 📂 Featured Data Engineering Projects
 
