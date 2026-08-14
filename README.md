@@ -23,9 +23,8 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 ---
 
 ## 🛠️ Tech Stack
-## 🛠️ Languages and Tools
 
-<h3 align="center">☁️ Azure</h3>
+<h3 align="center">☁️ Azure & Cloud Data Platform</h3>
 
 <p align="center">
 
@@ -43,17 +42,49 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
      height="55"
      alt="ADLS Gen2" />
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/databricks"
      height="55"
      alt="Databricks" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png"
-     height="55"
-     alt="Delta Lake" />
-&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<br>
+
+<h3 align="center">⚡ Big Data & Data Engineering</h3>
+
+<p align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
      height="55"
      alt="Apache Spark" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
+     height="55"
+     alt="PySpark" />
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png"
+     height="55"
+     alt="Delta Lake" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
+     alt="ETL ELT" />
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
+     alt="Incremental Loading" />
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
+     alt="Medallion Architecture" />
 
 </p>
 
@@ -62,18 +93,17 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <h3 align="center">💻 Programming & Databases</h3>
 
 <p align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
      height="55"
      alt="Python" />
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"
      height="55"
      alt="SQL" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
-     height="55"
-     alt="PySpark" />
-&nbsp;&nbsp;&nbsp; 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
      height="55"
      alt="Oracle Database" />
@@ -82,7 +112,6 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
      height="55"
      alt="PostgreSQL" />
-
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -90,6 +119,8 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
      alt="MySQL" />
 
 </p>
+
+<br>
 
 <h3 align="center">🔧 Tools</h3>
 
@@ -108,30 +139,6 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
      height="55"
      alt="VS Code" />
-
-</p>
-
-<br>
-
-<h3 align="center">🔄 Data Engineering</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
-     alt="ETL ELT" />
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
-     alt="Incremental Loading" />
-
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
-     alt="Medallion Architecture" />
-
-&nbsp;&nbsp;
 
 </p>
 
