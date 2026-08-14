@@ -2,22 +2,6 @@
 
 <h3 align="center">Data Engineer | Azure | Databricks | PySpark | SQL</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mayanksahu212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/sahuMonk">
-    <img src="https://img.shields.io/badge/GitHub-sahuMonk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahuMonk&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -219,32 +203,6 @@ A Data Engineering project demonstrating data ingestion, transformation and anal
 `Azure` · `ADF` · `Databricks` · `PySpark` · `SQL`
 
 🔗 **[View Project →](https://github.com/sahuMonk/Adventure-Works-Data-Engineering-Project)**
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=sahuMonk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-  alt="Mayank's GitHub Stats" />
-
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuMonk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-  alt="Top Languages" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahuMonk&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak" />
-
-</p>
 
 ---
 
