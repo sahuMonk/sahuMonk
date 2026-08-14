@@ -207,26 +207,8 @@ Samrat Ashok Technological Institute, Vidisha
 
 ## 🤝 Let's Connect
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-       width="60"
-       height="60"
-       alt="LinkedIn" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mayanksahu212@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-       width="60"
-       height="60"
-       alt="Gmail" />
-</a>
-
-</p>
-
+<p align="center"><a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mayanksahu212@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Gmail" /></a></p>
 
 ---
 
