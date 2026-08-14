@@ -72,6 +72,7 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
          width="55" height="55" alt="Delta Lake"
          style="object-fit:contain;" />
   </span>
+  <br>
   <span style="display:inline-block;width:70px;height:70px;text-align:center;">
     <img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
        alt="ETL ELT" />
@@ -84,25 +85,7 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
     <img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
        alt="Medallion Architecture" />
   </span>
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
-       alt="ETL ELT" />
-
-  &nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
-       alt="Incremental Loading" />
-
-  &nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
-       alt="Medallion Architecture" />
-
-</p>
-
+<br>
 <h3 align="center">💻 Programming & Databases</h3>
 
 <p align="center">
@@ -134,7 +117,7 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
   </span>
 
 </p>
-
+<br>
 <h3 align="center">🔧 Tools</h3>
 
 <p align="center">
