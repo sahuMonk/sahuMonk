@@ -23,43 +23,148 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Programming & Databases
+## 🛠️ Languages and Tools
+
+<h3 align="center">☁️ Azure</h3>
+
+<p align="center">
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+     height="55"
+     alt="Azure" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://azure.microsoft.com/products/data-factory/" target="_blank">
+<img src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg"
+     height="55"
+     alt="Azure Data Factory" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://azure.microsoft.com/products/storage/data-lake-storage/" target="_blank">
+<img src="https://miro.medium.com/1*xkem5OSBR4oeQbMptKm6sw.png"
+     height="55"
+     alt="ADLS Gen2" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.databricks.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/databricks"
+     height="55"
+     alt="Databricks" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
+     height="55"
+     alt="Apache Spark" />
+</a>
+
+</p>
+
+<br>
+
+<h3 align="center">💻 Programming & Databases</h3>
 
 <p align="center">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+     height="55"
+     alt="Python" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="55" alt="Oracle Database" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+     height="55"
+     alt="Oracle Database" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+     height="55"
+     alt="PostgreSQL" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="55" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+     height="55"
+     alt="MySQL" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white"
+     alt="SQL" />
+
+</p>
+
+<br>
+
+<h3 align="center">🔧 Tools</h3>
+
+<p align="center">
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+     height="55"
+     alt="Git" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+     height="55"
+     alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="55" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+     height="55"
+     alt="VS Code" />
 </a>
+
+</p>
+
+<br>
+
+<h3 align="center">🔄 Data Engineering</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
+     alt="ETL ELT" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
+     alt="Incremental Loading" />
+
+&nbsp;&nbsp;
+
+<img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png"
+     height="55"
+     alt="Delta Lake" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
+     alt="Medallion Architecture" />
+
+&nbsp;&nbsp;
+
+<img src="https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
+     height="55"
+     alt="PySpark" />
 
 </p>
 
