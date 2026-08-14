@@ -29,29 +29,26 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <h3 align="center">☁️ Azure & Cloud Data Platform</h3>
 
 <p align="center">
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+         width="55" height="55" alt="Azure" />
+  </span>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-  height="55"
-  alt="Azure" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg"
+         width="55" height="55" alt="Azure Data Factory" />
+  </span>
 
-   
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://miro.medium.com/1*xkem5OSBR4oeQbMptKm6sw.png"
+         width="55" height="55" alt="ADLS Gen2"
+         style="object-fit:contain;" />
+  </span>
 
-<img src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg"
-  height="55"
-  alt="Azure Data Factory" />
-
-   
-
-<img src="https://miro.medium.com/1*xkem5OSBR4oeQbMptKm6sw.png"
-  height="55"
-  alt="ADLS Gen2" />
-
-   
-
-<img src="https://cdn.simpleicons.org/databricks"
-  height="55"
-  alt="Databricks" />
-
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.simpleicons.org/databricks"
+         width="55" height="55" alt="Databricks" />
+  </span>
 </p>
 
 <br>
@@ -59,41 +56,38 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 <h3 align="center">⚡ Big Data & Data Engineering</h3>
 
 <p align="center">
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
+         width="55" height="55" alt="Apache Spark" />
+  </span>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
-  height="55"
-  alt="Apache Spark" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
+         width="55" height="55" alt="PySpark"
+         style="object-fit:contain;" />
+  </span>
 
-   
-
-<img src="https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
-  height="55"
-  alt="PySpark" />
-
-   
-
-<img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png"
-  height="55"
-  alt="Delta Lake" />
-
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png"
+         width="55" height="55" alt="Delta Lake"
+         style="object-fit:contain;" />
+  </span>
 </p>
-
-<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
-  alt="ETL ELT" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-0078D4?style=for-the-badge"
+       alt="ETL ELT" />
 
-  
+  &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
-  alt="Incremental Loading" />
+  <img src="https://img.shields.io/badge/Incremental_Loading-0078D4?style=for-the-badge"
+       alt="Incremental Loading" />
 
-  
+  &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
-  alt="Medallion Architecture" />
+  <img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge"
+       alt="Medallion Architecture" />
 
 </p>
 
@@ -103,33 +97,31 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  height="55"
-  alt="Python" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+         width="55" height="55" alt="Python" />
+  </span>
 
-   
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"
+         width="55" height="55" alt="SQL"
+         style="object-fit:contain;" />
+  </span>
 
-<img src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"
-  height="55"
-  alt="SQL" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+         width="55" height="55" alt="Oracle Database" />
+  </span>
 
-   
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+         width="55" height="55" alt="PostgreSQL" />
+  </span>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-  height="55"
-  alt="Oracle Database" />
-
-   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  height="55"
-  alt="PostgreSQL" />
-
-   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  height="55"
-  alt="MySQL" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+         width="55" height="55" alt="MySQL" />
+  </span>
 
 </p>
 
@@ -139,21 +131,20 @@ I enjoy working with large datasets, designing efficient ETL/ELT pipelines, impl
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  height="55"
-  alt="Git" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+         width="55" height="55" alt="Git" />
+  </span>
 
-   
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+         width="55" height="55" alt="GitHub" />
+  </span>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  height="55"
-  alt="GitHub" />
-
-   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  height="55"
-  alt="VS Code" />
+  <span style="display:inline-block;width:70px;height:70px;text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+         width="55" height="55" alt="VS Code" />
+  </span>
 
 </p>
 
