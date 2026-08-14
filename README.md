@@ -138,7 +138,6 @@ A data engineering project demonstrating data ingestion, transformation and anal
 
 * 🎓 **Databricks Data Engineer Associate**
 * ☁️ **Microsoft Azure Fundamentals — AZ-900**
-* ☁️ **AWS Certified Cloud Practitioner**
 
 ---
 
@@ -151,22 +150,21 @@ Samrat Ashok Technological Institute, Vidisha
 
 ---
 
-## 📊 GitHub Stats
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahuMonk\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahuMonk\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/mayank-sahu-6b89681a1/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+       width="80"
+       height="50"
+       alt="linkedin logo" />
 </a>
 
-<a href="https://github.com/sahuMonk">
-<img src="https://img.shields.io/badge/GitHub-sahuMonk-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:mayanksahu212@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+       width="80"
+       height="50"
+       alt="gmail logo" />
 </a>
 
 ---
