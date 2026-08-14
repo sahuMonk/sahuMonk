@@ -236,20 +236,6 @@ Samrat Ashok Technological Institute, Vidisha
   </tr>
 </table>
 
-<p align="center">
-  <strong>LinkedIn</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Gmail</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>GitHub</strong>
-</p>
 
 ---
 
-<h3 align="center">💡 Currently looking for Data Engineering opportunities</h3>
-
-<p align="center">
-
-<strong>Azure • Databricks • PySpark • SQL • ETL/ELT</strong>
-
-</p>
